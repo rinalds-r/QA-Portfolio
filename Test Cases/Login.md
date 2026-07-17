@@ -1,1 +1,2 @@
-
+	ZAGOLOVOK								|	PREDUSLOVIE								|	SHAGI	|	OZHIDAJEMIY REZULTAT	|	FAKTICHESKIJ REZULTAT
+Proverka avtorizacii s korektnimi dannimi	|	polzovatelj zaregistrirovan v sisteme	| 1) Otkritj stranicu logina. 2)Vvesti korektniy login i porol. 3)Nazhat knopku voijdti  |  Polzovatelj uspeshno avtorizovan i perenapravlen na glavnuju stranicu | Polzovatelj uspeshno avtorizovan i perenapravlen na glavnuju stranicu
