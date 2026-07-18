@@ -1,18 +1,43 @@
 # QA Portfolio
 
-Hello!
+## Project
 
-My name is Rinalds Rekis.
+Testing of the Sauce Demo Shopify store.
 
-I am currently studying Manual QA and preparing for my first Junior QA position.
+## Application under test
 
-This repository contains my practical QA work.
+https://sauce-demo.myshopify.com/
 
-## Skills
+## Project Description
 
-- Manual Testing
+This repository contains my practical Manual QA work based on a demo Shopify e-commerce website.
+
+The project includes:
+
 - Test Cases
+- Test Executions
 - Bug Reports
-- SQL
-- API Testing
+- Checklists
+- API Testing (Postman)
+- SQL Practice
+
+## Scope
+
+The following functionality is covered:
+
+- Home page
+- Navigation
+- Product catalog
+- Product page
+- Shopping cart
+- Search
+- Customer login
+- Password recovery
+- Contact forms
+
+## Tools
+
+- GitHub
+- Markdown
 - Postman
+- SQL
