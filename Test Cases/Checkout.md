@@ -1,4 +1,4 @@
 # Checkout Test Cases
 
-| ID | Title | Preconditions | Steps | Expected Result | Priority |
-|----|-------|---------------|-------|-----------------|----------|
+| ID | Title | Preconditions | Steps | Expected Result |
+|----|-------|---------------|-------|-----------------|
