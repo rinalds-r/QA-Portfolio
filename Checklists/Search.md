@@ -1,6 +1,6 @@
 # Search Checklist
 
-- [ ] Search using existing product name
+- [x] Search using existing product name
 - [ ] Search using non-existing product name
 - [ ] Search using numbers
 - [ ] Search using special characters
