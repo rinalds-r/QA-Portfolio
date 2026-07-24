@@ -55,7 +55,7 @@ The following areas are not covered:
 # Test Environment
 
 Operating System:
-Windows 10 Pro
+Windows 10
 
 Browser:
 Google Chrome (latest stable version)
@@ -71,10 +71,6 @@ The following testing types will be performed:
 
 - Functional Testing
 - UI Testing
-- Smoke Testing
-- Regression Testing
-- Exploratory Testing
-- Negative Testing
 
 ---
 
