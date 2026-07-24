@@ -114,5 +114,3 @@ The project will include:
 - Test Cases
 - Test Execution Reports
 - Bug Reports
-- Postman Collection
-- SQL Practice
