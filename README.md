@@ -18,26 +18,15 @@ The project includes:
 - Test Executions
 - Bug Reports
 - Checklists
-- API Testing (Postman)
-- SQL Practice
 
 ## Scope
 
 The following functionality is covered:
 
 - Home page
+- Login
 - Navigation
 - Product catalog
 - Product page
-- Shopping cart
 - Search
-- Customer login
-- Password recovery
-- Contact forms
-
-## Tools
-
-- GitHub
-- Markdown
-- Postman
-- SQL
+- Shopping Cart
