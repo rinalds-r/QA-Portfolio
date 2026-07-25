@@ -25,15 +25,13 @@ The objective of this project is to verify that the main functionality of the Sh
 
 The following functionality will be tested:
 
-- Home page
+- Homepage
+- Login
 - Navigation menu
 - Product catalog
 - Product pages
-- Shopping cart
 - Search
-- Customer login
-- Password recovery
-- Contact forms
+- Shopping Cart
 
 ---
 
