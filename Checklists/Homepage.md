@@ -1,0 +1,22 @@
+# Homepage Checklist
+
+- [ ] Homepage loads successfully
+- [ ] Website logo is displayed
+- [ ] Clicking the logo redirects to the homepage
+- [ ] Navigation menu is displayed
+- [ ] Hero banner is displayed correctly
+- [ ] Hero banner images load correctly
+- [ ] Hero banner buttons work correctly
+- [ ] Featured products section is displayed
+- [ ] Product cards are displayed correctly
+- [ ] Footer is displayed
+- [ ] Contact information is visible
+- [ ] Social media links are displayed
+- [ ] Social media links open the correct pages
+- [ ] Newsletter section is displayed
+- [ ] Newsletter subscription field is available
+- [ ] All homepage images are displayed correctly
+- [ ] No broken images
+- [ ] No broken links
+- [ ] Homepage layout is displayed correctly
+- [ ] Homepage works correctly after page refresh
