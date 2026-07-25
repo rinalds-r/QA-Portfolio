@@ -14,10 +14,11 @@ This repository contains my practical Manual QA work based on a demo Shopify e-c
 
 The project includes:
 
+- Checklists
 - Test Cases
 - Test Executions
 - Bug Reports
-- Checklists
+
 
 ## Scope
 
