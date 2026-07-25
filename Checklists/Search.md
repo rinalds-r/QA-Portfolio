@@ -3,15 +3,13 @@
 - [ ] Search field is displayed
 - [ ] Search using existing product name
 - [ ] Search using non-existing product name
+- [ ] Search with empty input
 - [ ] Search using numbers
 - [ ] Search using special characters
-- [ ] Search using spaces only
-- [ ] Search with empty input
+- [ ] Search with spaces only
 - [ ] Search is case-insensitive
 - [ ] Search with very long text
 - [ ] Search using mixed letters and numbers
 - [ ] Search by pressing Enter
 - [ ] Search by clicking Search button
 - [ ] Clear search input
-- [ ] Search results are displayed correctly
-- [ ] "No results" message is displayed correctly
