@@ -1,6 +1,7 @@
 # Search Checklist
 
-- [x] Search using existing product name
+- [ ] Search field is displayed
+- [ ] Search using existing product name
 - [ ] Search using non-existing product name
 - [ ] Search using numbers
 - [ ] Search using special characters
@@ -12,3 +13,5 @@
 - [ ] Search by pressing Enter
 - [ ] Search by clicking Search button
 - [ ] Clear search input
+- [ ] Search results are displayed correctly
+- [ ] "No results" message is displayed correctly
