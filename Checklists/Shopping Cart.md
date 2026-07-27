@@ -7,6 +7,5 @@
 - [x] Empty shopping cart
 - [x] Cart total is calculated correctly
 - [x] Product quantity is displayed correctly
-- [x] Continue Shopping button works
 - [x] Checkout button works
 - [x] Cart updates after page refresh
