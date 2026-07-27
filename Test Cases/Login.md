@@ -12,5 +12,5 @@
 | LOGIN-008 | Verify password field masks entered characters | User is on the Login page | 1. Enter a password into the password field. | Password characters are hidden (masked) while typing. | 
 | LOGIN-009 | Verify Forgot Password link works correctly | User is on the Login page | 1. Click the Forgot Password link. | User is redirected to the Password Recovery page or the password recovery process starts successfully. | 
 | LOGIN-010 | Verify Logout works correctly | User is logged in | 1. Click the Logout button or menu option. | User is successfully logged out and redirected to the expected page. The protected pages are no longer accessible without logging in again. | 
-| LOGIN-011 | Verify user session remains active after page refresh | User is logged in | 1. Refresh the current page. | Uuser remains logged in after the page refresh. The current session is preserved. | 
+| LOGIN-011 | Verify user session remains active after page refresh | User is logged in | 1. Refresh the current page. | User remains logged in after the page refresh. The current session is preserved. | 
 | LOGIN-012 | Verify error message is displayed correctly | User is on the Login page | 1. Enter invalid login credentials.<br> 2. Click Login.	 | Error message is displayed. The message accurately describes the login failure without revealing sensitive information. | 
