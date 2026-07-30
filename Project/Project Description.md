@@ -4,16 +4,20 @@ Application:
 https://sauce-demo.myshopify.com/
 
 Application type:
-E-commerce website
+Demo Shopify E-commerce Website
 
-Testing type:
+Testing Type:
 Manual Functional Testing
 
-Browser:
-Google Chrome
-
-Operating System:
-Windows 10
-
 Goal:
-Verify that the core functionality of the online store works correctly.
+Verify that the main user functionality works correctly and identify functional defects.
+
+Tested Features:
+
+- Homepage
+- Login
+- Navigation
+- Product Catalog
+- Product Pages
+- Search
+- Shopping Cart
