@@ -65,50 +65,11 @@ Stable Internet connection
 
 # Test Types
 
-The following testing types will be performed:
+The following testing activities will be performed:
 
 - Functional Testing
 - UI Testing
+- Positive Testing
+- Negative Testing
 
 ---
-
-# Entry Criteria
-
-Testing starts when:
-
-- Website is available
-- Browser is installed
-- Test environment is ready
-
----
-
-# Exit Criteria
-
-Testing is completed when:
-
-- All planned test cases are executed
-- Critical bugs are documented
-- Test execution report is completed
-
----
-
-# Risks
-
-Possible risks:
-
-- Website content may change during testing
-- Temporary server downtime
-- Browser updates affecting UI
-- Demo store limitations
-
----
-
-# Deliverables
-
-The project will include:
-
-- Test Plan
-- Checklists
-- Test Cases
-- Test Execution Reports
-- Bug Reports
