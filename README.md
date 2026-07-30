@@ -31,7 +31,7 @@ Verify that the core functionality of the online store works correctly using man
 - Search
 - Shopping Cart
 
-## Testing Techniques
+## Testing Activities
 
 - Functional Testing
 - UI Testing
