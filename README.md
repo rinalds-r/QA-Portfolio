@@ -40,6 +40,6 @@ Verify that the core functionality of the online store works correctly using man
 
 ## Tools
 
-- Google Chrome 150
+- Google Chrome (latest stable version)
 - Windows 10
 - Markdown
