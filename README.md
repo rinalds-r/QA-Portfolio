@@ -21,6 +21,10 @@ Verify that the core functionality of the online store works correctly using man
 - Test Execution Reports
 - Bug Reports
 
+## About This Portfolio
+
+This repository contains examples of my manual QA practice while preparing for a Junior QA Engineer position.
+
 ## Testing Scope
 
 - Home page
