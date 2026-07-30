@@ -1,33 +1,45 @@
 # QA Portfolio
 
-## Project
+Welcome to my Manual QA portfolio.
 
-Testing of the Sauce Demo Shopify store.
+This repository contains a practical manual testing project for a demo Shopify e-commerce website.
 
-## Application under test
+## Application Under Test
 
 https://sauce-demo.myshopify.com/
 
-## Project Description
+## Project Goal
 
-This repository contains my practical Manual QA work based on a demo Shopify e-commerce website.
+Verify that the core functionality of the online store works correctly using manual testing techniques.
 
-The project includes:
+## Repository Structure
 
+- Project Description
+- Test Plan
 - Checklists
 - Test Cases
-- Test Executions
+- Test Execution Reports
 - Bug Reports
 
-
-## Scope
-
-The following functionality is covered:
+## Testing Scope
 
 - Home page
 - Login
 - Navigation
-- Product catalog
-- Product page
+- Product Catalog
+- Product Pages
 - Search
 - Shopping Cart
+
+## Testing Techniques
+
+- Functional Testing
+- UI Testing
+- Positive Testing
+- Negative Testing
+
+## Tools
+
+- Google Chrome 150
+- Windows 10
+- Markdown
